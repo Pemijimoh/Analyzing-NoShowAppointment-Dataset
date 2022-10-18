@@ -9,13 +9,13 @@
 
 ### Questions: 
 
-*Investigate those who showed up and did not for the appointment.
+* Investigate those who showed up and did not for the appointment.
 
-*Did receiving an SMS affect the showing up of patients for the appointment?
+* Did receiving an SMS affect the showing up of patients for the appointment?
 
-*Did the scholarship variable have an effect on the patients showing up for the appointment?
+* Did the scholarship variable have an effect on the patients showing up for the appointment?
 
-*Did the age of the patient have any influence on them showing up or not.
+* Did the age of the patient have any influence on them showing up or not.
 
 
 ### Observations:
@@ -25,6 +25,6 @@ After cleaning the data and carrying out exploratory analysis it was found out t
 
 * Patients within the age of 17-60 are likely not to show up for the appointment while patients within the age of 75 and above were seen to show up more for the scheduled appointment. This indicate that older people do not joke with their health.
 
-Receiving an SMS had little influence on those who showed up for the appointment as majority of the patients did not receive the message but still showed up.
+* Receiving an SMS had little influence on those who showed up for the appointment as majority of the patients did not receive the message but still showed up.
 
 * More than 70% of patients who received the scholarship showed up for the appointment. This implies that receiving the scholarship increased the number of patient that showed up for the appointment.
