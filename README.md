@@ -10,8 +10,11 @@
 ### Questions: 
 
 *Investigate those who showed up and did not for the appointment.
+
 *Did receiving an SMS affect the showing up of patients for the appointment?
+
 *Did the scholarship variable have an effect on the patients showing up for the appointment?
+
 *Did the age of the patient have any influence on them showing up or not.
 
 
